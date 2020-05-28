@@ -35,6 +35,8 @@
         android:layout_toEndOf="@+id/textView_code"
         android:layout_toRightOf="@+id/textView_code"
         android:gravity="center_vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
         android:text="India (IN)"
         android:textColor="@android:color/secondary_text_light" />
 
